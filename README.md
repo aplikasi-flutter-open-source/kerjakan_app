@@ -9,3 +9,11 @@ With Kerjakan, we want to connect those who have the skillsets and whose who see
 # How we built kerjakan
 
 We begin from the ideation and design phase, we start by looking at the case that we want to solve, ‘Economic Development. We want our apps to help move the economy by empowering people whose work is on hold due to this pandemic. We found out that workforces from tourism, leisure, and hospitality services have both general and specialized skill, so we made them as our main user, and put other types of workers as our secondary user.  The app development was built using Flutter, a Multiplatform UI Toolkit Platform. Technologies used in this application are Firebase Google Sign In for authentication, GraphQL Hasura for Backend Development, Flutter Map for Map Engine, and Provider Pattern is used for the design Pattern. We succeeded in developing Kerjakan using Flutter and Hasura GraphQL, where developing UI becomes easier, helpful, and multi-platform instantly. Using Hasura GraphQL made the data management easier, and implementing routes easier
+
+# Image
+
+![image](https://i.ibb.co/gWT9h2L/User-Flow-Kerjakan.jpg)
+
+# Video
+
+[youtube_link](https://www.youtube.com/watch?v=y0pYYQNQiEA)
