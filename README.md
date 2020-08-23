@@ -16,4 +16,4 @@ We begin from the ideation and design phase, we start by looking at the case tha
 
 # Video
 
-[youtube_link](https://www.youtube.com/watch?v=y0pYYQNQiEA)
+[Youtube Link](https://www.youtube.com/watch?v=y0pYYQNQiEA)
