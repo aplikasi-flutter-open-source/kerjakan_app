@@ -2,6 +2,7 @@ import 'package:flutter/material.dart';
 import 'package:flutter_map/flutter_map.dart';
 import 'package:kerjakanapp/provider/nearby_job.dart';
 import 'package:kerjakanapp/provider/nearby_jobseeker.dart';
+import 'package:kerjakanapp/screens/job_seeker_detail_screen.dart';
 import 'package:kerjakanapp/widgets/rating_star.dart';
 
 import '../const.dart';
@@ -26,7 +27,9 @@ class _MarkerPopupEmployerState extends State<MarkerPopupEmployer> {
     return Card(
       shape: RoundedRectangleBorder(borderRadius: BorderRadius.circular(8)),
       child: InkWell(
-        onTap: () {},
+        onTap: () => Navigator.of(context).pushNamed(
+            JobSeekerDetailScreen.routeName,
+            arguments: widget.nearbyJobSeeker),
         child: Padding(
           padding: const EdgeInsets.all(8.0),
           child: Row(
