@@ -1,4 +1,4 @@
-![thumbail](https://www.dropbox.com/s/bcv3uy2mx4kdvzz/Thumbnail_Kerjakan.png?dl=0)
+![thumbail](https://ibb.co/vPLSxrJ)
 
 # about kerjakan
 
