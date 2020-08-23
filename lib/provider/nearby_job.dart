@@ -49,6 +49,7 @@ class NearbyJobs with ChangeNotifier {
     List<Placemark> placemark = await Geolocator()
         .placemarkFromCoordinates(position.latitude, position.longitude);
 
+    print('city ${placemark[0].subAdministrativeArea}');
     final fetchNearby = """
 query MyQuery {
   kerjakan_vacancy(where: {city: {_eq: "${placemark[0].subAdministrativeArea}"}}) {

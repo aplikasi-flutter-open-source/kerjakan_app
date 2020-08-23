@@ -771,6 +771,10 @@ class _ProfileEmployerScreenState extends State<ProfileEmployerScreen> {
                     const SizedBox(
                       height: 16,
                     ),
+                    if (_listVacancy.length == 0)
+                      const SizedBox(
+                        height: 300,
+                      ),
                   ],
                 ),
               ),

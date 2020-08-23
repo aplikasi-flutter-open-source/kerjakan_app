@@ -463,7 +463,7 @@ class _EmployerListState extends State<EmployerList> {
                   shrinkWrap: true,
                   itemBuilder: (context, index) =>
                       ItemJobSeeker(_listNearbyJobSeeker[index]),
-                  itemCount: 2,
+                  itemCount: _listNearbyJobSeeker.length,
                 ),
               ),
             ],

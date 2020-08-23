@@ -85,6 +85,7 @@ class _HomeScreenJobSeekerState extends State<HomeScreenJobSeeker> {
       markers: markers,
       updateMapLocationOnPositionChange: false,
       zoomToCurrentLocationOnLoad: true,
+      showMoveToCurrentLocationFloatingActionButton: false,
     );
     return Scaffold(
       body: SafeArea(
