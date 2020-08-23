@@ -1,16 +1,5 @@
-# kerjakanapp
+# about kerjakan
 
-A new Flutter application.
+Indonesia is a Travel and Hospitality Mogul in South East Asia. Leasure and Culture is part of our economic drive. Unfortunately this year this industry is mostly declining, as the global pandemic forces business, hotels, and services deemed non-essential to shut down, leaving hundred-thousands of workforce unable to perform their skill, and consumers unable to get the services they want.
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+With Kerjakan, we want to connect those who have the skillsets and whose who seek for leisure and convenience service at their home, so those people with different skillsets can work and move the economy. We believe that every work is essential to the community, and the economy. Semua bisa dikerjakan!
