@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Modify this file to customize your launch splash screen -->
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+    <item>
+        <color android:color="#2152DB"/>
+    </item>
+
+    <item
+        android:width="329dp"
+        android:height="214dp"
+        android:drawable="@drawable/kerjakan_launch"
+        android:gravity="center" />
+</layer-list>

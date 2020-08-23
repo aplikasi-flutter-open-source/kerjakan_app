@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>278612812822-d3co67osljdj66bfogns0a1l7ln504gn.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.278612812822-d3co67osljdj66bfogns0a1l7ln504gn</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>278612812822-p8g6a59ntus1dr6fuu08jhb5k9lqd9pl.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyAqzxhSOHzGMEfnK2IhVfkB5GEWbpkOHE4</string>
+	<key>GCM_SENDER_ID</key>
+	<string>278612812822</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>id.braga.kerjakanapp</string>
+	<key>PROJECT_ID</key>
+	<string>coronaina-1584683215079</string>
+	<key>STORAGE_BUCKET</key>
+	<string>coronaina-1584683215079.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:278612812822:ios:af8e22bc0aae38b9438137</string>
+	<key>DATABASE_URL</key>
+	<string>https://coronaina-1584683215079.firebaseio.com</string>
+</dict>
+</plist>
