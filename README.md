@@ -1,4 +1,4 @@
-![thumbail](https://drive.google.com/uc?export=view&id=1id2Qy9hFI1xZFmgfXJtDJ6_Azy7vIaJV)
+![thumbail](https://googledrive.com/host/1id2Qy9hFI1xZFmgfXJtDJ6_Azy7vIaJV/Thumbnail_Kerjakan.png)
 
 # about kerjakan
 
