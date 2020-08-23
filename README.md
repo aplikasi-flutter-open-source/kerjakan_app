@@ -1,4 +1,4 @@
-![thumbail](https://doc-0s-30-docs.googleusercontent.com/docs/securesc/9fhj0s6pps1uvoge26eaik0ml1sodbka/b7qn3b9l0u8cttsgruli8us8js390qg5/1598193750000/10794240623498456734/10794240623498456734/1id2Qy9hFI1xZFmgfXJtDJ6_Azy7vIaJV?e=view&authuser=0)
+![thumbail](https://drive.google.com/uc?export=view&id=1id2Qy9hFI1xZFmgfXJtDJ6_Azy7vIaJV)
 
 # about kerjakan
 
